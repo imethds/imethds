@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, I'm Thành Công (Ethan)!
 
-<!--
-**imethds/imethds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ **Java Backend Developer**  
+- Specialize in **Spring Boot**, building **RESTful APIs**  
+- Currently learning **Docker**, **JWT**, and polishing my backend skills.
 
-Here are some ideas to get you started:
+🚀 **Projects:**  
+- [student-manager](https://github.com/imethds/student-manager) - Spring Boot REST API for managing students 🎉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact me:**  
+- ✉️ dtcong2511@gmail.com
+- 🔗 [GitHub](https://github.com/imethds)
+
+---
+
+💡 Always curious & passionate about building scalable backend systems.
