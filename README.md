@@ -5,7 +5,7 @@
 - Currently learning **Docker**, **JWT**, and polishing my backend skills.
 
 🚀 **Projects:**  
-- [student-manager](https://github.com/imethds/student-manager) - Spring Boot REST API for managing students 🎉
+- [library-management](https://github.com/imethds/student-manager) - Spring Boot REST API for managing library 🎉
 
 📫 **Contact me:**  
 - ✉️ dtcong2511@gmail.com
